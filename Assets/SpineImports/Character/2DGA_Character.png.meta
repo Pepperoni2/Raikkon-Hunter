@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 65d68f18bb5843349972962fe1a5615c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6040739487860403940
+    second: 2DGA_Character_0
+  - first:
+      213: 5785104471034389914
+    second: 2DGA_Character_1
+  - first:
+      213: -3318650335611831464
+    second: 2DGA_Character_2
+  - first:
+      213: -262391379466556113
+    second: 2DGA_Character_3
+  - first:
+      213: 4997751409175703594
+    second: 2DGA_Character_4
+  - first:
+      213: -2661143596569525270
+    second: 2DGA_Character_5
+  - first:
+      213: 5421019046298049004
+    second: 2DGA_Character_6
+  - first:
+      213: -7349692340200340986
+    second: 2DGA_Character_7
+  - first:
+      213: -3242391399559239686
+    second: 2DGA_Character_8
+  - first:
+      213: -1432648705807767145
+    second: 2DGA_Character_9
+  - first:
+      213: 1856856446734357182
+    second: 2DGA_Character_10
+  - first:
+      213: -7583753032218546066
+    second: 2DGA_Character_11
+  - first:
+      213: 8429420046935563840
+    second: 2DGA_Character_12
+  - first:
+      213: 2134821226580519906
+    second: 2DGA_Character_13
+  - first:
+      213: -4369437265270181171
+    second: 2DGA_Character_14
+  - first:
+      213: 6370772874437498553
+    second: 2DGA_Character_15
+  - first:
+      213: -2923266833703402974
+    second: 2DGA_Character_16
+  - first:
+      213: 1172757029550734650
+    second: 2DGA_Character_17
+  - first:
+      213: -5219031718585496182
+    second: 2DGA_Character_18
+  - first:
+      213: 9093513932401458970
+    second: 2DGA_Character_19
+  - first:
+      213: -549850059939974102
+    second: 2DGA_Character_20
+  - first:
+      213: 8817933360758479034
+    second: 2DGA_Character_21
+  - first:
+      213: 3026508505216992045
+    second: 2DGA_Character_22
+  - first:
+      213: -6498932556228296959
+    second: 2DGA_Character_23
+  - first:
+      213: -8731885568149130408
+    second: 2DGA_Character_24
+  - first:
+      213: -6044478827031535323
+    second: 2DGA_Character_25
+  - first:
+      213: -3684257084464148154
+    second: 2DGA_Character_26
+  - first:
+      213: 2349675068920941972
+    second: 2DGA_Character_27
+  - first:
+      213: 2567778144304588375
+    second: 2DGA_Character_28
+  - first:
+      213: 8563308012534949276
+    second: 2DGA_Character_29
+  - first:
+      213: -4898943398369859723
+    second: 2DGA_Character_30
+  - first:
+      213: 6727712464878330874
+    second: 2DGA_Character_31
+  - first:
+      213: -1652670564484746127
+    second: 2DGA_Character_32
+  - first:
+      213: -7243648902118890464
+    second: 2DGA_Character_33
+  - first:
+      213: 528783083174373355
+    second: 2DGA_Character_34
+  - first:
+      213: -4098271875560407690
+    second: 2DGA_Character_35
+  - first:
+      213: 5967197701220656985
+    second: 2DGA_Character_36
+  - first:
+      213: 5289993116671901413
+    second: 2DGA_Character_37
+  - first:
+      213: -5808557833935854868
+    second: 2DGA_Character_38
+  - first:
+      213: -1490677063564803357
+    second: 2DGA_Character_39
+  - first:
+      213: 7547491092867577317
+    second: 2DGA_Character_40
+  - first:
+      213: 4181277416918425869
+    second: 2DGA_Character_41
+  - first:
+      213: 6873841630799030177
+    second: 2DGA_Character_42
+  - first:
+      213: 6514048183108033670
+    second: 2DGA_Character_43
+  - first:
+      213: 7319723808523732103
+    second: 2DGA_Character_44
+  - first:
+      213: 235559340459281127
+    second: 2DGA_Character_45
+  - first:
+      213: -1000274544932866042
+    second: 2DGA_Character_46
+  - first:
+      213: 768632463008901214
+    second: 2DGA_Character_47
+  - first:
+      213: 6964015366631600780
+    second: 2DGA_Character_48
+  - first:
+      213: 7876638168848872725
+    second: 2DGA_Character_49
+  - first:
+      213: -2356750539044124525
+    second: 2DGA_Character_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DGA_Character_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2810
+        width: 377
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11d765e07bfa2ca0800000000000000
+      internalID: -6040739487860403940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2811
+        width: 277
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9567889dd1d84050800000000000000
+      internalID: 5785104471034389914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_2
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2811
+        width: 267
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b302c4a19c1f1d0800000000000000
+      internalID: -3318650335611831464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_3
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2810
+        width: 243
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d65ca3e6ccb5cf0800000000000000
+      internalID: -262391379466556113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_4
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 3118
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2030ab6d649b5540800000000000000
+      internalID: 4997751409175703594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_5
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2788
+        width: 629
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae30b2e8ff7b11bd0800000000000000
+      internalID: -2661143596569525270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_6
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 2341
+        width: 734
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d83fc9145b3b40800000000000000
+      internalID: 5421019046298049004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_7
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 2987
+        width: 94
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60203f5c1c5a00a90800000000000000
+      internalID: -7349692340200340986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_8
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2594
+        width: 601
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af76d767336b003d0800000000000000
+      internalID: -3242391399559239686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_9
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 2732
+        width: 361
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799a762b7953e1ce0800000000000000
+      internalID: -1432648705807767145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1434
+        width: 953
+        height: 1376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2de7aa911e4c910800000000000000
+      internalID: 1856856446734357182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_11
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 2801
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6072523cc811c690800000000000000
+      internalID: -7583753032218546066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_12
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2593
+        width: 402
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e96282fd05bf470800000000000000
+      internalID: 8429420046935563840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_13
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2593
+        width: 334
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebab45489860ad10800000000000000
+      internalID: 2134821226580519906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_14
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2351
+        width: 275
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2773f15f3ac53c0800000000000000
+      internalID: -4369437265270181171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_15
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 2540
+        width: 151
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b69a8dec28896850800000000000000
+      internalID: 6370772874437498553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_16
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2339
+        width: 281
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2228d698d487e67d0800000000000000
+      internalID: -2923266833703402974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_17
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 2561
+        width: 437
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3db63a0e48764010800000000000000
+      internalID: 1172757029550734650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_18
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1306
+        width: 632
+        height: 1286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d0736bd464297b0800000000000000
+      internalID: -5219031718585496182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_19
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 2349
+        width: 102
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fbad4fdb6a23e70800000000000000
+      internalID: 9093513932401458970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_20
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2104
+        width: 397
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24fc81a84a8e58f0800000000000000
+      internalID: -549850059939974102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_21
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 2412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab853151ca79f5a70800000000000000
+      internalID: 8817933360758479034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_22
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1304
+        width: 261
+        height: 1047
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23482b4371500a20800000000000000
+      internalID: 3026508505216992045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_23
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1304
+        width: 289
+        height: 1037
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f7aced5472fc5a0800000000000000
+      internalID: -6498932556228296959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_24
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1296
+        width: 757
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8537c1bd65c12d680800000000000000
+      internalID: -8731885568149130408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_25
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 2319
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5216a662882bd1ca0800000000000000
+      internalID: -6044478827031535323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_26
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 1940
+        width: 319
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6415c43a3b3eedcc0800000000000000
+      internalID: -3684257084464148154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_27
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 1660
+        width: 321
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dcf9ca609bb9020800000000000000
+      internalID: 2349675068920941972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_28
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 1192
+        width: 610
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75669491e9492a320800000000000000
+      internalID: 2567778144304588375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 850
+        height: 1431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95e66d544bf6d670800000000000000
+      internalID: 8563308012534949276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_30
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 10
+        width: 617
+        height: 1295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5776b655fe4730cb0800000000000000
+      internalID: -4898943398369859723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_31
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1085
+        width: 645
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af36a0487d2ad5d50800000000000000
+      internalID: 6727712464878330874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_32
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1055
+        width: 358
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1747429b0e88019e0800000000000000
+      internalID: -1652670564484746127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_33
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 993
+        width: 397
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0242e87b3b3697b90800000000000000
+      internalID: -7243648902118890464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_34
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 948
+        width: 375
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be728db996d965700800000000000000
+      internalID: 528783083174373355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_35
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 1287
+        width: 331
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d7f3851730027c0800000000000000
+      internalID: -4098271875560407690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_36
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 849
+        width: 230
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e8c591bebfc250800000000000000
+      internalID: 5967197701220656985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_37
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 837
+        width: 230
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee7d7746b4d96940800000000000000
+      internalID: 5289993116671901413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_38
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 630
+        width: 135
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2e0f2dc6bd36fa0800000000000000
+      internalID: -5808557833935854868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_39
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1
+        width: 272
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2c56fcb1d005be0800000000000000
+      internalID: -1490677063564803357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_40
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1
+        width: 263
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5fbcf19231eb860800000000000000
+      internalID: 7547491092867577317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_41
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1
+        width: 250
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0129c648a1e60a30800000000000000
+      internalID: 4181277416918425869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_42
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 910
+        width: 651
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a761164b8ac46f50800000000000000
+      internalID: 6873841630799030177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_43
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 382
+        width: 239
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cdee34f4c866a50800000000000000
+      internalID: 6514048183108033670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_44
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 376
+        width: 239
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784c605b502e49560800000000000000
+      internalID: 7319723808523732103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_45
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 219
+        width: 186
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eac99bd8ffd44300800000000000000
+      internalID: 235559340459281127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_46
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 1
+        width: 817
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608396fd99f4e12f0800000000000000
+      internalID: -1000274544932866042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_47
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58aa78172bbaaa00800000000000000
+      internalID: 768632463008901214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_48
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82307a341725a060800000000000000
+      internalID: 6964015366631600780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_49
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1
+        width: 168
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515358eaea07f4d60800000000000000
+      internalID: 7876638168848872725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DGA_Character_50
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 4
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39880101fd32b4fd0800000000000000
+      internalID: -2356750539044124525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2DGA_Character_0: -6040739487860403940
+      2DGA_Character_1: 5785104471034389914
+      2DGA_Character_10: 1856856446734357182
+      2DGA_Character_11: -7583753032218546066
+      2DGA_Character_12: 8429420046935563840
+      2DGA_Character_13: 2134821226580519906
+      2DGA_Character_14: -4369437265270181171
+      2DGA_Character_15: 6370772874437498553
+      2DGA_Character_16: -2923266833703402974
+      2DGA_Character_17: 1172757029550734650
+      2DGA_Character_18: -5219031718585496182
+      2DGA_Character_19: 9093513932401458970
+      2DGA_Character_2: -3318650335611831464
+      2DGA_Character_20: -549850059939974102
+      2DGA_Character_21: 8817933360758479034
+      2DGA_Character_22: 3026508505216992045
+      2DGA_Character_23: -6498932556228296959
+      2DGA_Character_24: -8731885568149130408
+      2DGA_Character_25: -6044478827031535323
+      2DGA_Character_26: -3684257084464148154
+      2DGA_Character_27: 2349675068920941972
+      2DGA_Character_28: 2567778144304588375
+      2DGA_Character_29: 8563308012534949276
+      2DGA_Character_3: -262391379466556113
+      2DGA_Character_30: -4898943398369859723
+      2DGA_Character_31: 6727712464878330874
+      2DGA_Character_32: -1652670564484746127
+      2DGA_Character_33: -7243648902118890464
+      2DGA_Character_34: 528783083174373355
+      2DGA_Character_35: -4098271875560407690
+      2DGA_Character_36: 5967197701220656985
+      2DGA_Character_37: 5289993116671901413
+      2DGA_Character_38: -5808557833935854868
+      2DGA_Character_39: -1490677063564803357
+      2DGA_Character_4: 4997751409175703594
+      2DGA_Character_40: 7547491092867577317
+      2DGA_Character_41: 4181277416918425869
+      2DGA_Character_42: 6873841630799030177
+      2DGA_Character_43: 6514048183108033670
+      2DGA_Character_44: 7319723808523732103
+      2DGA_Character_45: 235559340459281127
+      2DGA_Character_46: -1000274544932866042
+      2DGA_Character_47: 768632463008901214
+      2DGA_Character_48: 6964015366631600780
+      2DGA_Character_49: 7876638168848872725
+      2DGA_Character_5: -2661143596569525270
+      2DGA_Character_50: -2356750539044124525
+      2DGA_Character_6: 5421019046298049004
+      2DGA_Character_7: -7349692340200340986
+      2DGA_Character_8: -3242391399559239686
+      2DGA_Character_9: -1432648705807767145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
