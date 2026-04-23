@@ -9,6 +9,7 @@ public class PlayerMovementController : MonoBehaviour
 {
     [SerializeField] private float speed;
     [SerializeField] private float jumpVelocity;
+    [SerializeField] private float boostVelocity;
     [SerializeField] private GroundCheck groundCheck;
 
     [SerializeField] private SkeletonAnimation skeletonAnimation;
@@ -18,6 +19,10 @@ public class PlayerMovementController : MonoBehaviour
     private float originalXScale;
     private bool wasInAir;
     private float airTimeout;
+    // Boost mechanic fields
+    [SerializeField] private float boostDuration = 1f;
+    private float boostTimeout;
+    private bool isBoosting; // Checks if character is currently boosting
 
 
     void Awake()
@@ -31,6 +36,7 @@ public class PlayerMovementController : MonoBehaviour
     private void FigureOutAnimationsStateAfterLanding(TrackEntry trackEntry)
     {
         if(trackEntry.Animation.Name != "landing") {return;}
+        if (isBoosting) return;
         if(horizontalInput != 0)
         {
             skeletonAnimation.AnimationState.SetAnimation(0, "walk", true);
@@ -41,6 +47,30 @@ public class PlayerMovementController : MonoBehaviour
     {
         transform.position += Vector3.right * horizontalInput * speed * Time.deltaTime;
 
+        if (isBoosting)
+        {
+            boostTimeout -= Time.deltaTime;
+            float facingDirection = Mathf.Sign(transform.localScale.x);
+            transform.position += Vector3.right * facingDirection * boostVelocity * Time.deltaTime;
+
+            if (boostTimeout <= 0)
+            {
+                isBoosting = false;
+
+                skeletonAnimation.AnimationState.SetAnimation(0, "boost_end", false);
+                
+                string nextAnim = "idle";
+                if (wasInAir) nextAnim = "jump";
+                else if (horizontalInput != 0) nextAnim = "walk";
+
+                skeletonAnimation.AnimationState.SetAnimation(0, nextAnim, true);
+            }
+            else
+            {
+                transform.position += Vector3.right * horizontalInput * speed * Time.deltaTime;
+            }
+        }
+        // Air and Landing Logic
         if (wasInAir)
         {
             airTimeout -= Time.deltaTime;
@@ -49,8 +79,11 @@ public class PlayerMovementController : MonoBehaviour
         if(groundCheck.isGrounded && wasInAir && airTimeout <= 0)
         {
             wasInAir = false;
-            skeletonAnimation.AnimationState.SetAnimation(0, "landing", false);
-            skeletonAnimation.AnimationState.AddAnimation(0, "idle", true, 0);
+            if (!isBoosting)
+            {
+                skeletonAnimation.AnimationState.SetAnimation(0, "landing", false);
+                skeletonAnimation.AnimationState.AddAnimation(0, "idle", true, 0);
+            }
         }
     }
 
@@ -85,9 +118,33 @@ public class PlayerMovementController : MonoBehaviour
     public void OnJump()
     {
         if(!groundCheck.isGrounded) { return; }
-        rigidbody2D.linearVelocityY = jumpVelocity;
-        skeletonAnimation.AnimationState.SetAnimation(0, "jump", false);
+
+        float currentJumpVelocity = jumpVelocity;
+
+        if (isBoosting)
+        {
+            currentJumpVelocity += boostVelocity;
+        }
+
+        rigidbody2D.linearVelocityY = currentJumpVelocity;
+
+        if (!isBoosting)
+        {
+            skeletonAnimation.AnimationState.SetAnimation(0, "jump", false);
+        }
+
         wasInAir = true;
         airTimeout = 0.2f;
+    }
+
+    public void OnBoost()
+    {
+        if (isBoosting) return;
+
+        isBoosting = true;
+        boostTimeout = boostDuration;
+
+        skeletonAnimation.AnimationState.SetAnimation(0, "boost_start", false);
+        skeletonAnimation.AnimationState.SetAnimation(0, "boost_loop", true);
     }
 }

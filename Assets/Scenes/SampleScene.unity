@@ -1727,7 +1727,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64b919705c1d8d646952b7d80eff9271, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collector
-  collectedText: 'Gems collected:'
+  collectedText: 'Raikkon collected:'
   OnCollected:
     m_PersistentCalls:
       m_Calls:
@@ -3039,12 +3039,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6626315524185815247, guid: 5903e938a88da204fb69056dfeac97df, type: 3}
+      propertyPath: speed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626315524185815247, guid: 5903e938a88da204fb69056dfeac97df, type: 3}
       propertyPath: groundCheck
       value: 
       objectReference: {fileID: 1493104988}
     - target: {fileID: 6626315524185815247, guid: 5903e938a88da204fb69056dfeac97df, type: 3}
       propertyPath: jumpVelocity
-      value: 10
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626315524185815247, guid: 5903e938a88da204fb69056dfeac97df, type: 3}
+      propertyPath: boostVelocity
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6626315524185815247, guid: 5903e938a88da204fb69056dfeac97df, type: 3}
       propertyPath: skeletonAnimation
